@@ -8,4 +8,4 @@ elif a == b:
 else:
     print("a is more than b")
 # wallet
-# if + for loop + while loop + function + class (optional
+# if + for loop + while loop + function + class (optional).
